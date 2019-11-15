@@ -14,4 +14,20 @@
     "sha256_cert_fingerprints":
     ["34:CF:F5:26:70:4E:BA:C6:0B:4E:29:17:41:CE:86:50:87:2E:D9:2B:DA:47:26:45:54:16:A8:E1:40:D1:33:6C"]
   }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bochk.com.sit",
+    "sha256_cert_fingerprints":
+    ["26:A4:11:CE:2E:6A:4E:CD:9F:4C:F3:46:3F:CC:B2:E2:02:70:8F:86:09:B7:2E:3E:7F:7D:DB:6E:CF:9F:43:79"]
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bochk.com.sit",
+    "sha256_cert_fingerprints":
+    ["C6:13:A3:3A:A9:C9:0C:E3:98:A6:65:44:68:97:40:73:C9:75:50:97:59:2E:77:81:4E:C1:A4:8E:9E:68:B3:AB"]
+  }
 }]
